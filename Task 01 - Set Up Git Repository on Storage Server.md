@@ -15,7 +15,7 @@ The Nautilus development team has provided requirements to the DevOps team for a
 ## Solution
 
 
-## Step 1 - Switch to Storage Server
+**Step 1 - Switch to Storage Server**
 
 In KodeKloud Engineer, you first connect to the Storage Server:
 
@@ -26,7 +26,7 @@ ssh natasha@ststor01
 
 ---
 
-## Step 2 - Install Git
+**Step 2 - Install Git**
 
 Update repos and install `git` using yum:
 
@@ -36,7 +36,7 @@ sudo yum install git -y
 
 ---
 
-## Step 3 - Create Bare Git Repository
+**Step 3 - Create Bare Git Repository**
 
 A bare repository is required for central collaboration. Create it in `/opt`:
 
@@ -46,7 +46,7 @@ sudo git init --bare /opt/news.git
 
 ---
 
-## Step 4 - Verify Repository
+**Step 4 - Verify Repository**
 
 Check that it is indeed a bare repo:
 
