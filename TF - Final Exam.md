@@ -9,6 +9,7 @@ Clone the repository `/opt/story-blog-t1q11.git` under sarah user's home on stor
 Use below credentials to SSH into the storage server and to complete this task.
 
 `Username`: sarah
+
 `Password`: S3cure321
 
 ---
@@ -22,6 +23,7 @@ Create and initialise a git repository at `/home/sarah/story-blog-t1q3` on Stora
 Use below credentials to SSH into the storage server and to complete this task.
 
 `Username`: sarah
+
 `Password`: S3cure321
 
 ---
@@ -38,6 +40,7 @@ A couple of new Git repositories were created recently and this is still in prog
 Use below credentials to SSH into the storage server and to complete this task.
 
 `Username`: sarah
+
 `Password`: S3cure321
 
 ---
@@ -52,6 +55,7 @@ Checkout the `master` branch under repo `/usr/src/kodekloudrepos/cluster-t2q5`.
 Use below credentials to SSH into the storage server and to complete this task.
 
 `Username`: sarah
+
 `Password`: S3cure321
 
 ---
@@ -66,6 +70,7 @@ Create a new branch `nautilus-t2q3` in `/usr/src/kodekloudrepos/cluster-t2q3` re
 Use below credentials to SSH into the storage server and to complete this task.
 
 `Username`: sarah
+
 `Password`: S3cure321
 
 
