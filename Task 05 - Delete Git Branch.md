@@ -33,7 +33,7 @@ git branch
 You should see something like:
 
 ```css
-* `master`
+* master
   xfusioncorp_official
 ```
 
