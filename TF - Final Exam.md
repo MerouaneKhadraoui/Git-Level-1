@@ -145,4 +145,3 @@ git log --oneline --graph --all
 
 ---
 
-## Solution 2
