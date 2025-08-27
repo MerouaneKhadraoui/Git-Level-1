@@ -30,3 +30,6 @@ Here are some of the key concepts and commands practiced in this repository:
 ## 📂 Repository Structure
 Each directory corresponds to a **task/exercise** from the course.
 
+---
+
+<p align="center"> 👨‍💻 Maintained by <b>Merouane KHADRAOUI</b><br> 📍 Oran, Algeria </p>
