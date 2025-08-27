@@ -28,7 +28,7 @@ ssh natasha@ststor01
 2. **Go to the repository directory**
 
 ```bash
-cd /usr/src/kodekloudrepos/beta
+cd /usr/src/kodekloudrepos/blog
 ```
 
 ---
@@ -36,8 +36,8 @@ cd /usr/src/kodekloudrepos/beta
 3. **Check git status & current branch**
 
 ```bash
-sudo git status
-sudo git branch
+git status
+git branch
 ```
 You should see you're on `master`.
 
@@ -46,16 +46,16 @@ You should see you're on `master`.
 4. **Make sure `master` is up to date**
 
 ```bash
-git checkout master
-git pull origin master
+git switch master
 ```
 
 ---
 
-5. **MCreate new branch `xfusioncorp_beta` from master**
+5. **MCreate new branch `xfusioncorp_blog` from master**
 
 ```bash
-git checkout -b xfusioncorp_beta
+git branch xfusioncorp_blog
+git switch xfusioncorp_blog
 ```
 
 ---
@@ -65,16 +65,17 @@ git checkout -b xfusioncorp_beta
 ```bash
 git branch -a
 ```
-You should now see both `master` and `xfusioncorp_beta`.
+You should now see both `master` and `xfusioncorp_blog`.
 
 ---
 
 🎯 **Final Answer (commands only)**
 
 ```bash
-cd /usr/src/kodekloudrepos/beta
-git checkout master
-git checkout -b xfusioncorp_beta
+cd /usr/src/kodekloudrepos/blog
+git switch master
+git branch xfusioncorp_blog
+git switch xfusioncorp_blog
 ```
 
 ---
